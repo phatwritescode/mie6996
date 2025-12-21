@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="color: #ffffff;">Hi there 👋, I'm <a href="https://fb.com/mie6996" target="_blank" style="color: #1da1f2;">Phat Nguyen</a></h1>
+<h1 align="center" style="color: #ffffff;">Hi there 👋, I'm Phat Nguyen</h1>
 
 - 🌱 I’m currently working with <span style="color: #6DB33F;">**Spring Boot**</span>
 
@@ -34,7 +34,7 @@
         <a href="https://github.com/your-github-username/tuanmotorbike" target="_blank" style="color: #1da1f2;">View on GitHub</a>     -->
     <div style="background: #2c2f33; padding: 15px; border-radius: 10px;">
         <h3>
-            <a href="https://github.com/mie6996/voz-image-crawler" style="color: #6DB33F; font-weight: bold; text-decoration: none;">Voz Image Crawler</a>
+            <a href="https://github.com/phatwritescode/voz-image-crawler" style="color: #6DB33F; font-weight: bold; text-decoration: none;">Voz Image Crawler</a>
         </h3>
         <p style="color: #ffffff; margin: 0;">A fun project featuring curated photo collections.</p>
         
@@ -101,6 +101,6 @@ Markdown   0 secs          ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <br />
 <table align="center">
     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=mie6996&show_icons=true&theme=dark&locale=en" alt="mie6996" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=phatwritescode&show_icons=true&theme=dark&locale=en" alt="phatwritescode" /></td>
     </tr>
 </table>

@@ -93,8 +93,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-M3U          1 min                 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀   78.39 %
-TypeScript   0 secs                ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
